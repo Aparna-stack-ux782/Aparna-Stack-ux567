@@ -103,8 +103,8 @@
     <h2>📲 Contact & Social Profiles</h2>
     <div class="socials">
       <a href="mailto:aparnasuresh083@gmail.com" target="_blank">📧 Email</a>
-      <a href="https://www.instagram.com/aparnasureshkumar4" target="_blank">📸 Instagram</a>
-      <a href="https://www.linkedin.com/in/aparna-suresh" target="_blank">💼 LinkedIn</a>
+      <a href="https://www.instagram.com/_aparna_sureshkumar4" target="_blank">📸 Instagram</a>
+      <a href="https://www.linkedin.com/in/Aparna Suresh" target="_blank">💼 LinkedIn</a>
       <a href="https://github.com/Aparna-stack-ux782" target="_blank">🐙 GitHub</a>
     </div>
   </div>
